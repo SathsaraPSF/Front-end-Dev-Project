@@ -9,7 +9,7 @@ function Footer() {
 
                 {/* Section for the logo and company mission statement */}
                 <div className='flex flex-col min-[1200px]:w-[60%]  h-full py-16 min-[768px]:px-20 gap-3 min-[768px]:ml-0 ml-8'>
-                    <img src={logo} className='w-[50%]' />
+                    <img src={logo} className='min-[768px]:w-[50%] w-[80%]' />
                     <span className='min-[1200px]:text-[1rem] min-[768px]:text-[1.2rem] text-white'>Your goal is our target. Not anything in between. We use online marketing platforms and tools to achieve single objective - your business results.</span>
                 </div>
 
@@ -36,7 +36,7 @@ function Footer() {
             {/* Footer bottom section for legal links */}
             <div className='flex flex-col justify-center items-center w-full h-[20%]'>
                 <hr className='min-[1200px]:w-[50%] w-[80%]'></hr>
-                <div className='flex gap-3 items-center mt-2 mb-1'>
+                <div className='flex gap-3 items-center mt-2 mb-2'>
                     <span className='text-[1rem] text-white'>Privacy Policy</span>
                     <hr className='w-[20px]  rotate-90'></hr>
                     <span className='text-[1rem] text-white'>Terms & Conditions</span>
