@@ -23,8 +23,8 @@ You can view the live version of the application here.
 
 To get started with the project, clone the repository and install the dependencies:
 
-- git clone https://github.com/SathsaraPSF/AT-DIGITAL-FRONTEND.git
-- cd AT-DIGITAL-FRONTEND
+- git clone https://github.com/SathsaraPSF/Front-end-Dev-Project.git
+- cd Front-end-Dev-Project
 - npm install
 
 ## Available Scripts
