@@ -5,6 +5,7 @@ AT-DIGITAL is a modern web application designed to provide top-notch digital ser
 ## Live Version
 
 You can view the live version of the application here.
+- https://at-digital-front-end-dev.netlify.app
 
 ## Features
 
@@ -52,4 +53,4 @@ To get started with the project, clone the repository and install the dependenci
 ## Acknowledgments
 
 - FontAwesome for providing the icons used in the application
-- Netlify for hosting the live version of the app
+- Netlify for hosting the live version of the app 
